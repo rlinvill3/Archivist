@@ -1,3 +1,5 @@
+This program contacts the wanikani API in order to approximate what percentage of the text in the textbox the user would be able to interperet, and displays ones that must be learned in order to do so.
+
 
 ## Folder Structure
 
