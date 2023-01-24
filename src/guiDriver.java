@@ -55,6 +55,9 @@ public class guiDriver extends JPanel {
         frame.pack();
         frame.setVisible (true);
 
+        int i=1;
+    
+
 
     }
 }
